@@ -6,6 +6,6 @@ using namespace std;
 
 int main (void)
 {
-	cout << "\r\nHello Nanba!\r\n";
+	cout << "\r\nHello First File!\r\n";
 	return 0;
 }
