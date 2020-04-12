@@ -11,5 +11,6 @@ int main (void)
 	cout << "\r\nAdding a new line to show a diff\r\n";
 	cout << "\r\nCommit 1\r\n";
 	cout << "\r\nCommit 2\r\n";
+	cout << "\r\nCommit 3\r\n";
 	return 0;
 }
